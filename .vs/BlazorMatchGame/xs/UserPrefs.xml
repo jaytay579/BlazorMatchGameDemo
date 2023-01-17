@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{552C0D3B-E326-4F6D-8938-462B8B89097A}|Default">
+  <MonoDevelop.Ide.ItemProperties.BlazorMatchGame PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorMatchGame/Class_Exercises.txt">
+    <Files>
+      <File FileName="BlazorMatchGame/Pages/Index.razor" Line="112" Column="1" />
+      <File FileName="BlazorMatchGame/Class_Exercises.txt" Line="20" Column="1" />
+      <File FileName="BlazorMatchGame/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlazorMatchGame" expanded="True">
+            <Node name="BlazorMatchGame" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="Class_Exercises.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jay/NU/DGM6308_Winter2023/BlazorMatchGame/BlazorMatchGame/Pages/Index.razor" relfile="BlazorMatchGame/Pages/Index.razor" line="112" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
